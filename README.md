@@ -16,7 +16,9 @@ It highlights the main concepts, existing solutions, and proposes a simple, inte
 ---
 
 ##  Repository Contents
-first-deliverable-presentation.pptx:  Main concepts explanation and Overview of the main existing solutions
+
+project overview.pptx:  Main concepts explanation and Overview of the main existing solutions.  
+app design.pptx: High Level Design of the application.
 
 ---
 
@@ -24,8 +26,6 @@ first-deliverable-presentation.pptx:  Main concepts explanation and Overview of 
 
 🔜 The repository will be updated to include:  
 Application source code  
-Documentation on usage
-
 
 Stay tuned! 🚀
 
